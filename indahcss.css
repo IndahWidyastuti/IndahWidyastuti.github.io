@@ -1,0 +1,21 @@
+<style>
+	h1 {font-family: Cinzel, serif; font-size: 46px;}
+	h1 {color: lightgray;}
+	h1 {text-shadow: 4px 4px 7px;}
+	tr {color: beige;}
+	body {background-color: black;}
+	p 	{margin: 30px 60px 30px 60px;}
+	h1  {margin: 30px 60px 30px 60px;}
+	h3  {margin: 30px 60px 30px 60px;}
+	tr  {margin: 30px 60px 30px 60px;}
+	td  {margin: 30px 60px 30px 60px;}
+	img {border-radius: 20px;}
+	tr  {font-family: 'Fauna One', serif;font-size: 16px;}
+	tr  {align-content: center;}
+	td  {font-family: 'Fauna One', serif;font-size: 16px;}
+	p 	{color: aquamarine;}
+	table {border-collapse: collapse;}
+	td 	{text-align: center;}
+	h3 {color: aquamarine;}
+	h3 {text-decoration: underline;}
+</style>
