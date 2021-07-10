@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&family=Raleway:ital@1&display=swap');
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #C2B8A3;
+}
+#PJJ {
+  background-color: #E6DDC6;
+}
+h1,
+h2 {
+ font-family: 'Raleway', sans-serif;
+}
+.cakep {
+ font-family: 'Raleway', sans-serif;
+}
+.font {
+ font-family: 'Josefin Sans', sans-serif;
+}
+section {
+  padding-top: 5rem;
+}
+.btn {
+  background-color: #C2B8A3;
+}
+ 
+ 
+
